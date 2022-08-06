@@ -1,5 +1,9 @@
 # Getting Started with Create Trello App
 
+#a
+#b
+#phi
+# ngay 6 thang 8
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
